@@ -1,0 +1,55 @@
+div, p{
+  font-family: arial;
+}
+
+h{
+  font-family: 'Brush Script MT', cursive;
+  font-size: 265%;
+}
+
+.artist > p{
+  line-height:50%;
+  font-size:180%;
+}
+
+.artist	p:first-of-type{
+  font-weight: bold;
+}
+
+.material > p{
+  line-height:20%;
+  font-size:150%;
+}
+
+.description{
+   line-height:300%;
+   font-size:135%;
+}
+
+.description .D1{
+    color: rgb(58, 120, 74);
+}
+
+.D2{
+  color: rgb(158, 94, 9);
+}
+
+.description .D3{
+   color:rgb(95, 60, 176);
+}
+
+.dashedLine{
+  font-size:135%;
+}
+
+#totoro{
+  width:80vw;
+}
+
+#laputa{;
+  height:60vw;
+}
+
+#KimiNoNaWa{
+  width: 70vmax;
+}
